@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  font-size: 3em;
+  margin: 1em;
+  letter-spacing: 0.5em;
+}
+
+.flex_container {
+  margin-top: 3em;
+}
+.topic_form {
+  display: flex;
+  justify-content: center;
+}
+.cards_container {
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  margin: 1em;
+  overflow: hidden;
+}
+.card {
+  width: 50%;
+  padding: 1em;
+  text-align: left;
+}
+.p_card {
+  background-color: #ffcaca;
+}
+.a_card {
+  background-color: #c4ffd9;
+}
+.term_count_container {
+  padding: 1em;
+}
+.term_count {
+  color: #8f55ff;
+  font-weight: bold;
+}
+.progress_container {
+  margin: 4em;
+}
