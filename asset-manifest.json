@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quizhack/static/css/main.683edeec.chunk.css",
-    "main.js": "/quizhack/static/js/main.0c1994d8.chunk.js",
-    "main.js.map": "/quizhack/static/js/main.0c1994d8.chunk.js.map",
+    "main.css": "/quizhack/static/css/main.9644aacb.chunk.css",
+    "main.js": "/quizhack/static/js/main.bd822188.chunk.js",
+    "main.js.map": "/quizhack/static/js/main.bd822188.chunk.js.map",
     "runtime-main.js": "/quizhack/static/js/runtime-main.e3d1977b.js",
     "runtime-main.js.map": "/quizhack/static/js/runtime-main.e3d1977b.js.map",
-    "static/js/2.c5a37d0f.chunk.js": "/quizhack/static/js/2.c5a37d0f.chunk.js",
-    "static/js/2.c5a37d0f.chunk.js.map": "/quizhack/static/js/2.c5a37d0f.chunk.js.map",
+    "static/js/2.56eca6d9.chunk.js": "/quizhack/static/js/2.56eca6d9.chunk.js",
+    "static/js/2.56eca6d9.chunk.js.map": "/quizhack/static/js/2.56eca6d9.chunk.js.map",
     "index.html": "/quizhack/index.html",
-    "precache-manifest.2994066c144c3b9fb04f6490eb392b65.js": "/quizhack/precache-manifest.2994066c144c3b9fb04f6490eb392b65.js",
+    "precache-manifest.4112584ef223dba5857d574a0d9c29df.js": "/quizhack/precache-manifest.4112584ef223dba5857d574a0d9c29df.js",
     "service-worker.js": "/quizhack/service-worker.js",
-    "static/css/main.683edeec.chunk.css.map": "/quizhack/static/css/main.683edeec.chunk.css.map",
-    "static/js/2.c5a37d0f.chunk.js.LICENSE.txt": "/quizhack/static/js/2.c5a37d0f.chunk.js.LICENSE.txt"
+    "static/css/main.9644aacb.chunk.css.map": "/quizhack/static/css/main.9644aacb.chunk.css.map",
+    "static/js/2.56eca6d9.chunk.js.LICENSE.txt": "/quizhack/static/js/2.56eca6d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e3d1977b.js",
-    "static/js/2.c5a37d0f.chunk.js",
-    "static/css/main.683edeec.chunk.css",
-    "static/js/main.0c1994d8.chunk.js"
+    "static/js/2.56eca6d9.chunk.js",
+    "static/css/main.9644aacb.chunk.css",
+    "static/js/main.bd822188.chunk.js"
   ]
 }
