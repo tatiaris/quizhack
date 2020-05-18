@@ -27,7 +27,7 @@ function App() {
     const [search_phrase, update_search_phrase] = useState('')
 
     useEffect(() => {
-        socket = socketIOClient("https://quizhack.glitch.me/");
+        socket = socketIOClient("https://quizhack-backend.glitch.me/");
         socket.on('cards_update', function(data) {
             updateCards(data.cards)
             update_sorted_cards(data.sorted_cards)
