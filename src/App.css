@@ -2,10 +2,19 @@ body {
   margin: 0px;
 }
 .header {
+  margin: 2em;
+}
+.title {
+  display: flex;
+  justify-content: center;
   font-size: 3em;
-  margin: 1em;
   letter-spacing: 0.5em;
-  text-align: center;
+}
+.subtitle {
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0.2em;
 }
 .flex_center {
   display: flex;
