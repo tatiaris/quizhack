@@ -8,7 +8,7 @@ function CountInfo(data) {
     } else {
         return (
             <div className="term_count_container">
-                <span className="term_count">{data.card_count}</span> terms found from the top <span className="term_count">{data.set_count}</span> sets
+                <span className="term_count">{data.card_count}</span> total terms found from the top <span className="term_count">{data.set_count}</span> sets
             </div>
         )
     }
